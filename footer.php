@@ -3,7 +3,7 @@
  *    The template for dispalying the footer.
  * halloooo
  * @package    WordPress
- * @subpackage illdy
+ * @subpackage illdy hallooowww
  */
 ?>
 <?php
