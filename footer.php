@@ -1,7 +1,7 @@
 <?php
 /*****
  *    The template for dispalying the footer.
- *
+ * halloooo
  * @package    WordPress
  * @subpackage illdy
  */
